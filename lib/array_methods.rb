@@ -4,6 +4,7 @@ while count < array.length do
   puts array.index[value_to_find]
   count += 1
 end
+nil
 end
 
 def find_max_value(array)
