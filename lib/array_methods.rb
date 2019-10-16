@@ -1,7 +1,6 @@
 def find_element_index(array, value_to_find)
-count = 0 
 while count < array.length do
-  puts array.index(value_to_find[count])
+  puts array.index(value_to_find)
   count += 1
 end
 nil
